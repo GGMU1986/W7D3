@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+require 'rails_helper'
+
+>>>>>>> 93406204c0782319340e19e16df35b6527e0d491
 RSpec.describe User, type: :model do
 
   subject(:sherlock) { User.create(
